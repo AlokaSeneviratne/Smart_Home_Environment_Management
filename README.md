@@ -1,2 +1,2 @@
 # Smart_Home_Environment_Management
-Create an IOT system based on a MQTT server for environment management in a smark home
+Create an IoT system based on an MQTT server for environment management in a smart home
